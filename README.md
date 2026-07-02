@@ -33,25 +33,23 @@ Star Schema + DAX + Power Query + RLS
      │
      ▼
 Executive Dashboard
-```
 
 ---
 
 ## Executive Dashboard (Power BI)
-<img width="447" height="251" alt="WLTH_MAIN" src="https://github.com/user-attachments/assets/9b6d840d-cba9-4a77-8ab0-041cab93c594" />
+
 <img src="https://github.com/user-attachments/assets/9b6d840d-cba9-4a77-8ab0-041cab93c594">
 ---
 
 ## Performance & Risk Dashboard
 
-<img width="446" height="250" alt="W_RISK_DB" src="https://github.com/user-attachments/assets/9d615a52-bff3-479a-be16-34d0fea01aef" />
-
+<img src="https://github.com/user-attachments/assets/9d615a52-bff3-479a-be16-34d0fea01aef">
 
 ---
 
 # 📊 What Was Migrated?
-<img width="379" height="260" alt="Screenshot 2026-07-02 114943" src="https://github.com/user-attachments/assets/09e2383a-30d0-4de1-9981-f665717788f4" />
 
+<img src="https://github.com/user-attachments/assets/09e2383a-30d0-4de1-9981-f665717788f4" width="1000">
 
 | Tableau Solution | Power BI Migration |
 |-----------------|--------------------|
