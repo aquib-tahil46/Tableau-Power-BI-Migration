@@ -39,7 +39,9 @@ Executive Dashboard
 
 ## Executive Dashboard (Power BI)
 <img width="447" height="251" alt="WLTH_MAIN" src="https://github.com/user-attachments/assets/9b6d840d-cba9-4a77-8ab0-041cab93c594" />
-
+<p align="center">
+  <img src="assets/dashboard-1.png" width="1000">
+</p>
 
 ---
 
