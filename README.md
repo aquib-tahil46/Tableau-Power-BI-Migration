@@ -197,3 +197,10 @@ Key findings included:
 > **Business Intelligence is not about dashboards. It is about governed business logic.**
 
 This project demonstrates that when KPIs, data models, and transformation rules are properly documented, migrating from Tableau to Power BI becomes a controlled engineering exercise rather than a business risk.
+---
+## 👤 Author
+
+**Aquib Tahil**
+BI & Data Analyst | Tableau · Power BI · SQL
+[Tableau Public](https://public.tableau.com/app/profile/aquib.tahil8642) · [GitHub](https://github.com/aquib-tahil46)
+
