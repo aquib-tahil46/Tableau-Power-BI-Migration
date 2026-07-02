@@ -38,7 +38,7 @@ Executive Dashboard
 
 ## Executive Dashboard (Power BI)
 
-<img src="https://github.com/user-attachments/assets/9b6d840d-cba9-4a77-8ab0-041cab93c594">
+![](https://github.com/user-attachments/assets/9b6d840d-cba9-4a77-8ab0-041cab93c594)
 ---
 
 ## Performance & Risk Dashboard
