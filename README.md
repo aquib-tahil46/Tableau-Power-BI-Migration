@@ -38,14 +38,15 @@ Executive Dashboard
 ---
 
 ## Executive Dashboard (Power BI)
+<img width="447" height="251" alt="WLTH_MAIN" src="https://github.com/user-attachments/assets/9b6d840d-cba9-4a77-8ab0-041cab93c594" />
 
-![Executive Dashboard](images/dashboard1.png)
 
 ---
 
 ## Performance & Risk Dashboard
 
-![Performance Dashboard](images/dashboard2.png)
+<img width="446" height="250" alt="W_RISK_DB" src="https://github.com/user-attachments/assets/9d615a52-bff3-479a-be16-34d0fea01aef" />
+
 
 ---
 
